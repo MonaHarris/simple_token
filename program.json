@@ -1,6 +1,7 @@
 {
-    "program": "simple_token.aleo",
+#   "program": "simple_token.aleo",
     "version": "0.0.0",
     "description": "",
     "license": "MIT"
 }
+ 
