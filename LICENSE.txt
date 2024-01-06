@@ -1,4 +1,4 @@
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+#!*         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 
  Copyright (C) 2016 LittleCoder <i7meavnktqegm1b@qq.com>
 
@@ -11,3 +11,4 @@
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
 
+ 
